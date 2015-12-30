@@ -35,6 +35,10 @@ Thumbs.db
 # Coverage #
 /coverage/
 
+# Generated #
+/src/**.js
+/src/**.js.map
+
 # Typing #
 /src/typings/tsd/
 /typings/
